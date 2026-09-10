@@ -1,0 +1,2 @@
+/* rev-a7e10c-20260910 USAGE.txt */
+run as admin, pick title, swap dll, enable in game menu

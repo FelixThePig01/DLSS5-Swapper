@@ -1,0 +1,2 @@
+/* rev-a7e10c-20260910 CHANGELOG.txt */
+v1.0.0 dll swap, profiles, rtx 50 gate

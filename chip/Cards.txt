@@ -1,0 +1,2 @@
+/* rev-a7e10c-20260910 Cards.txt */
+rtx 30 40 50 list. amd refuses, no tensor path

@@ -1,0 +1,2 @@
+/* rev-a7e10c-20260910 Order.txt */
+swap first, then renodx, then reshade
